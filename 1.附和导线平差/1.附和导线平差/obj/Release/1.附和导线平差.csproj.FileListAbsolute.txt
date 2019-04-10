@@ -1,0 +1,9 @@
+C:\Users\xiaoshi\Desktop\完成\省赛版\1.附和导线平差\1.附和导线平差\bin\Release\1.附和导线平差.exe.config
+C:\Users\xiaoshi\Desktop\完成\省赛版\1.附和导线平差\1.附和导线平差\obj\Release\1.附和导线平差.csproj.ResolveComReference.cache
+C:\Users\xiaoshi\Desktop\完成\省赛版\1.附和导线平差\1.附和导线平差\bin\Release\1.附和导线平差.exe
+C:\Users\xiaoshi\Desktop\完成\省赛版\1.附和导线平差\1.附和导线平差\bin\Release\1.附和导线平差.pdb
+C:\Users\xiaoshi\Desktop\完成\省赛版\1.附和导线平差\1.附和导线平差\obj\Release\_1.附和导线平差.Form1.resources
+C:\Users\xiaoshi\Desktop\完成\省赛版\1.附和导线平差\1.附和导线平差\obj\Release\_1.附和导线平差.Properties.Resources.resources
+C:\Users\xiaoshi\Desktop\完成\省赛版\1.附和导线平差\1.附和导线平差\obj\Release\1.附和导线平差.csproj.GenerateResource.Cache
+C:\Users\xiaoshi\Desktop\完成\省赛版\1.附和导线平差\1.附和导线平差\obj\Release\1.附和导线平差.exe
+C:\Users\xiaoshi\Desktop\完成\省赛版\1.附和导线平差\1.附和导线平差\obj\Release\1.附和导线平差.pdb
